@@ -1,0 +1,138 @@
+{
+    "FoodCategory": {
+        "dessert": "Dessert",
+        "hawker": "Hawker Stall",
+        "restaurant": "Restaurant"
+    },
+    "Heritage": {
+        "oldtree_desc": "Located only 1 minute away from Outram Park MRT Station, this corner place has been one of the hidden gems of selling delicious durian desserts to office workers working in Central Business District. Staff prepares durian fresh from raw infront of the customers, and there are variety of durian desserts to try out.\n\nWe highly recommend trying the Stinky Bowl (Durian Mousse) with Extra Shot! Even for people who are afraid of durian, you will change your mind after trying it.\n\n Are you already a durian lover? the store also sells freshly packed raw durians at the front of the store! Prices are seasonal price",
+        "komala_desc": "Favoured by many Singaporeans, this restaurant has been serving vegetarian indian food since 1947! Dishes are served on top of banana leaves with variety of savoury curry sauces. \n\nWe highly recommend Dosai, an indian style of crepe made with batter of ground rice and lentis. If you are planning to visit Little India, would you give try out the authentic experience of dining local indian vegetarian food surrounded by history?",
+        "spicy_wife_desc": "This stall has been selling one of the tastiest Nasi Lemak dish at one of the most affordable price to office workers at Amoy Street Food Centre. The hawker stall specialises in serving Aromatic Chicken (Nasi Lemak Ayam Berempah), which basically means coconut rice with fried chicken with spices.\n\nThe dish serves with cucumber, generous portion of fried chicken with special spices, fried egg, special sambal chili sauce, with peanuts and ikan bilis (dried anchovies). The Chili sauce can be spicy to some people, so keep in mind, and enjoy!\n\n[Tip] The stall closes at 2pm and only opens during weekdays, so do check the latest opening hours before visiting!",
+        "nanhuachang_desc": "Are you a seafood lover? or perhaps a hotpot lover? This restaurant has been serving one of the best fishhead steamboat dishes since 1927 and the family is running business over 4 generations. Fishhead steamboat is a dish that serves soup with fish head meat, variety of vegetables, with a specially designed pot, where the centre has a charcoal placed inside the centre hole. This design keeps the dish hot after long hours, and turns the soup infused with charcoal flavour, giving you the irresistable taste.\n\nIt became a place where many Singaporeans bring families, close friends to visit, eat, and talk almost about everything. Will you be keen to experience steamboat culture in the most delicious way at this restaurant?",
+        "yatkayan_desc": "Are you staying near Dhoby Ghaut Station? or planning to visit Chijmes? there is a hidden chinese dessert shop not far from Bencoolen station, favoured by young Singaporeans. This dessert shop is also known by nearby design school and university students for selling variety of delicious chinese desserts at a cheap price.\n\nMy personal favourite, Chendol, a popular singaporean ice dessert with generous amount of GulaMelaka (charamelised syrup) drizzled, or if you are not much into 'too sweet' desserts, you can also try out a purple rice dessert made of glutinous purple rice served with variety of toppings. There are hot desserts available too!",
+        "jixiang_desc": "Do you know what Kueh is? This confectionery was founded in 1988, located near Outram Park and Tanjong Pagar MRT station, selling freshly handmade delicious Ang Ku Kueh. The word 'Ang Ku Kueh' literally means red tortoise cake, because the shape resembles a tortoise shell. It has a delicious rice cake texture, coated with sesame oil, and has variety of fillings.\n\n I personally recommend their sweet bean fillings and yam fillings",
+        "donamanis_desc": "Planning to visit Joo Chiat Road? not near from the centre of the popular joo chiat road, an old institution bakes delicious pies since 1990 at Katong Shopping Centre. Once you are near this shop, you cannot resist the smell of one of the best banana pies in Singapore.",
+        "ahtai_desc": "Chicken Rice is one of the most popular dish in Singapore. AhTai Chicken Rice, located at Maxwell Food Centre, which is only few minutes walk from the famous Buddha Tooth Relic Temple in ChinaTown. If you are travelling with more than 2 people, I recommend ordering half/whole chicken with separate rice bowls, or just individual chicken rice sets if you are not so hungry!"
+    },
+    "MRT": {
+        "tanjong_pagar": "Tanjong Pagar",
+        "outram_park": "Outram Park",
+        "bencoolen": "Bencoolen",
+        "little_india": "Little India",
+        "lavender": "Lavender",
+        "bugis": "Bugis",
+        "nicoll_highway": "Nicoll Highway",
+        "marine_parade": "Marine Parade",
+        "maxwell": "Maxwell"
+    },
+    "Header": {
+        "link_mapview": "MapView",
+        "link_landing": "Home",
+        "link_about": "About"
+    },
+    "Banner": {
+        "banner_msg": "Please note! This is a personal project. Food Locations were selected based on personal visit, local friend's recommendation, and with subjective criterias"
+    },
+    "SearchBar": {
+        "placeholder_loading": "Preparing smart search...",
+        "placeholder": "Search for food...",
+        "no_results": "No results found"
+    },
+    "LandingPage": {
+        "hero_desc": "<green>10+</green> Years. <green>100+</green> Visits.\nA Korean who eats like a local.\n\nNow sharing <primary>Singapore's</primary> real\n <primary>Must Try Food</primary>",
+        "hero_micro_desc": "Discover the real places where Singaporeans actually eat -curated through a decade of living and sharing meals with my local friends.",
+        "explore_more": "Explore Foodie's Trail",
+        "discover_why": "Why I made this guide",
+        "landing2_desc": "This is not just a Food List",
+        "landing2_desc_2": "\"I moved to Singapore more than 10 years ago. It depicts my personal memories with over hundreds of local meals ... friend by friend\"",
+        "photo_disclaimer": "All photos were taken by me!",
+        "your_complete_singapore_food_guide": "Your Complete Singapore Food Guide",
+        "access_full_curated_collection": "Access my full curated collection on Google Maps with real-time information and navigation.",
+        "feature_100_plus_locations": "100+ authentic food locations",
+        "feature_turn_by_turn": "Turn-by-turn directions",
+        "feature_live_hours": "Live hours & contact info",
+        "feature_hidden_gems": "Hidden gems not on the interactive map",
+        "google_maps_collection": "Google Maps Collection",
+        "ten_years_discoveries": "10+ years of food discoveries in one place",
+        "open_collection": "Open Collection",
+        "opens_in_google_maps": "Opens in Google Maps"
+    },
+    "HomePage": {
+        "trail_mode": "Trail Mode",
+        "featured_food_spots": "Featured Food Spots",
+        "play_marquee": "Play Marquee",
+        "pause_marquee": "Pause Marquee",
+        "marquee_paused": "Marquee paused",
+        "marquee_playing": "Marquee playing",
+        "foodlist_by_region": "Food List By Region",
+        "map_by": "Map Credit: ",
+        "map_disclaimer": "**The scale of the map is not precise, it is for rough estimation of the locations for each restaurants"
+    },
+    "GMapBanner": {
+        "explore_complete_collection": "Explore the Complete Collection",
+        "google_maps_banner_description": "View all 100+ curated food spots on Google Maps—including hidden gems not yet on this map. Get directions, photos, and real-time updates.",
+        "view_full_list": "View Full List",
+        "google_maps_banner_sr_description": "Open complete food collection in Google Maps with over 100 curated locations, directions, and real-time information"
+    },
+    "AboutPage": {
+        "intro": "Frontend Software Engineer | Web Developer",
+        "food_code_desc": "Back in 2024-2025, I went back to my home country, South Korea to complete my national service.\nBefore enlisting, I worked as a Software Engineer - and during service, I found myself missing the joy of builindg things with code.\n\nThere was something else I missed just as much: the <b>food in Singapore</b>.\n\nWhile scrolling through old photos of meals shared with my Singaporean friends, I felt inspired. I wanted to create something more than a simple food blog - something interactive, something that lets people explore the memories behind each place.\nThat became the idea for the <b>Foodie's Trail</b>; A <i>3D food map</i>, combining the two things I love most: food and code.",
+        "food_code": "Food & Code",
+        "inspiration_label": "Inspired by",
+        "inspiration_title": "\"Singapore in Colour\"",
+        "inspiration_author": "by Alex Lim, The Straits Times (August 2023)",
+        "inspiration_description": "The colour palette for this project draws inspiration from this interactive visual story, which explored Singapore's chromatic identity through 2,000+ photographs across different neighbourhoods.",
+        "inspiration_palette_label": "Our palette, inspired by the article:",
+        "inspiration_cta": "Read the Original Article",
+        "colour_hawker": "Hawker",
+        "colour_dessert": "Dessert",
+        "colour_restaurant": "Restaurant",
+        "colour_yellow": "Banner",
+        "about_project": "About this Project",
+        "about_project_desc": "This website is a personal passion project. It's a collection of food places I've discovered and loved over the past 10 years living in Singapore - a small archive of the meals, memories, and moments shared with friends and family.\n\nMy hope is that this map becomes useful not only to future visitors, but to anyone curious about Singapore's food culture.\nIf these recommendations help even one person find a memorable meal, or let someone feel the warmth I experienced eating here, then I'll be more than happy.",
+        "tech_title": "Built With Passion & Code",
+        "tech_desc": "This project combines my passion for web development with my love for Singapore's food scene. The 3D map uses Three.js to bring the MRT-style visualization to life, making food discovery interactive and fun.",
+        "tech_star_github": "Star on GitHub",
+        "tech_report_issue": "Report an Issue"
+    },
+    "Tooltip": {
+        "what_is_hawker": "Hawker Stall refers to a small food shop that serves affordable dish at hawker centres.\nA hawker centre usually consists of multiple independent hawker stalls hence making the place a cultural melting pot for variety of food.\nIt is where normally Singaporeans and residents love to eat to obtain an affordable meal."
+    },
+    "FilterBar": {
+        "hawker": "Hawker Stalls",
+        "restaurant": "Restaurants",
+        "dessert": "Dessert"
+    },
+    "HeritageListView": {
+        "central": "Central Region",
+        "east": "East Region",
+        "west": "West Region",
+        "north": "North Region"
+    },
+    "CardView": {
+        "must_try": "Must Try Dishes",
+        "directions": "Get Directions",
+        "learnmore": "Learn More"
+    },
+    "Sidebar": {
+        "map": "Map",
+        "website": "Website",
+        "must-try": "Must Try Dish",
+        "nearest-mrt": "Nearest MRT Station"
+    },
+    "Footer": {
+        "changelanguage": "Change Language",
+        "column_website": "Website",
+        "app_version": "App Version"
+    },
+    "StatsBar": {
+        "years_value": "10+",
+        "years_label": "Years",
+        "spots_value": "100+",
+        "spots_label": "Spots",
+        "languages_value": "4",
+        "languages_label": "Languages",
+        "project_value": "1",
+        "project_label": "Dream Project"
+    }
+}
