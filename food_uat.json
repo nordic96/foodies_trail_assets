@@ -6,9 +6,9 @@
       "category": "restaurant",
       "recommendations": ["Masla Dosai", "Masala Chai"],
       "imgSource": [
-        "https://cdn.jsdelivr.net/gh/nordic96/sg_eatwhere/resources/komala/komalavilla_1.jpeg",
-        "https://cdn.jsdelivr.net/gh/nordic96/sg_eatwhere/resources/komala/komalavilla_2.jpeg",
-        "https://cdn.jsdelivr.net/gh/nordic96/sg_eatwhere/resources/komala/komalavilla_3.jpeg"
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/komala/komalavilla_1.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/komala/komalavilla_2.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/komala/komalavilla_3.jpeg"
       ],
       "location": {
         "address": "76 Serangoon Rd, Singapore 217981",
@@ -28,8 +28,8 @@
       "category": "hawker",
       "recommendations": ["Aromatic Chicken"],
       "imgSource": [
-        "https://cdn.jsdelivr.net/gh/nordic96/sg_eatwhere/resources/spicy/spicy_wife_1.jpeg",
-        "https://cdn.jsdelivr.net/gh/nordic96/sg_eatwhere/resources/spicy/spicy_wife_2.jpeg"
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/spicy/spicy_wife_1.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/spicy/spicy_wife_2.jpeg"
       ],
       "location": {
         "address": "7 Maxwell Rd, Amoy St, Food Centre, 02-119, 069111",
@@ -48,10 +48,10 @@
       "category": "dessert",
       "recommendations": ["Yam Chendol", "Purple Rice with Icecream"],
       "imgSource": [
-        "https://cdn.jsdelivr.net/gh/nordic96/sg_eatwhere/resources/yatkayan/yatkayan_1.jpeg",
-        "https://cdn.jsdelivr.net/gh/nordic96/sg_eatwhere/resources/yatkayan/yatkayan_2.jpeg",
-        "https://cdn.jsdelivr.net/gh/nordic96/sg_eatwhere/resources/yatkayan/yatkayan_3.jpeg",
-        "https://cdn.jsdelivr.net/gh/nordic96/sg_eatwhere/resources/yatkayan/yatkayan_4.jpeg"
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/yatkayan/yatkayan_1.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/yatkayan/yatkayan_2.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/yatkayan/yatkayan_3.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/yatkayan/yatkayan_4.jpeg"
       ],
       "location": {
         "address": "190 Middle Rd, #02-08 Fortune Centre, Singapore 188979",
@@ -70,9 +70,9 @@
       "category": "restaurant",
       "recommendations": ["Grouper Fish Head Steamboat", "Prawn Paste Wings"],
       "imgSource": [
-        "https://cdn.jsdelivr.net/gh/nordic96/sg_eatwhere/resources/nanhua/nanhuachang_1.jpeg",
-        "https://cdn.jsdelivr.net/gh/nordic96/sg_eatwhere/resources/nanhua/nanhuachang_2.jpeg",
-        "https://cdn.jsdelivr.net/gh/nordic96/sg_eatwhere/resources/nanhua/nanhuachang_3.jpeg"
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/nanhua/nanhuachang_1.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/nanhua/nanhuachang_2.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/nanhua/nanhuachang_3.jpeg"
       ],
       "location": {
         "address": "462 Crawford Ln, #01-69/71, Singapore 190462",
@@ -92,7 +92,7 @@
       "category": "dessert",
       "recommendations": ["Yam AngKuKueh", "Sweet Bean AngKuKueh"],
       "imgSource": [
-        "https://cdn.jsdelivr.net/gh/nordic96/sg_eatwhere/resources/jixiang/jixiang_1.jpeg"
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/jixiang/jixiang_1.jpeg"
       ],
       "location": {
         "address": "1 Everton Park, #01-33, Singapore 081001",
@@ -112,11 +112,11 @@
       "category": "dessert",
       "recommendations": ["Stinky Bowl (with Extra Shot)", "MaoShanWang Durian Chendol"],
       "imgSource": [
-        "https://cdn.jsdelivr.net/gh/nordic96/sg_eatwhere/resources/oldtree/3A01AF2E-B75C-498C-A8D9-D298970AF2D2_1_105_c.jpeg",
-        "https://cdn.jsdelivr.net/gh/nordic96/sg_eatwhere/resources/oldtree/oldtree_3.jpeg",
-        "https://cdn.jsdelivr.net/gh/nordic96/sg_eatwhere/resources/oldtree/oldtree_1.jpeg",
-        "https://cdn.jsdelivr.net/gh/nordic96/sg_eatwhere/resources/oldtree/066AF8A2-72E8-48C2-93E7-280C8CB25A4F_1_105_c.jpeg",
-        "https://cdn.jsdelivr.net/gh/nordic96/sg_eatwhere/resources/oldtree/42A3E561-7823-45BF-B002-A11E5E9AAC77_1_102_a.jpeg"
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/oldtree/3A01AF2E-B75C-498C-A8D9-D298970AF2D2_1_105_c.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/oldtree/oldtree_3.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/oldtree/oldtree_1.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/oldtree/066AF8A2-72E8-48C2-93E7-280C8CB25A4F_1_105_c.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/oldtree/42A3E561-7823-45BF-B002-A11E5E9AAC77_1_102_a.jpeg"
       ],
       "location": {
         "address": "1 Teo Hong Rd, Singapore 088321",
@@ -136,9 +136,9 @@
       "recommendations": ["Banana Pie"],
       "category": "dessert",
       "imgSource": [
-        "https://cdn.jsdelivr.net/gh/nordic96/sg_eatwhere/resources/dona/dona1.jpeg",
-        "https://cdn.jsdelivr.net/gh/nordic96/sg_eatwhere/resources/dona/dona2.jpeg",
-        "https://cdn.jsdelivr.net/gh/nordic96/sg_eatwhere/resources/dona/dona3.jpeg"
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/dona/dona1.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/dona/dona2.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/dona/dona3.jpeg"
       ],
       "location": {
         "address": "865 Mountbatten Rd, B1 93, Singapore 437844",
@@ -155,7 +155,7 @@
       "recommendations": ["Hainanese Chicken Rice"],
       "category": "hawker",
       "imgSource": [
-        "https://cdn.jsdelivr.net/gh/nordic96/sg_eatwhere/resources/ahtai/ahtai.jpeg"
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/ahtai/ahtai.jpeg"
       ],
       "location": {
         "address": "1 Kadayanallur St, #01-07 Maxwell Food Centre, Singapore 069184",
@@ -174,8 +174,8 @@
       "recommendations": ["Kopi", "Kopi C Siew Dai"],
       "category": "hawker",
       "imgSource": [
-        "https://cdn.jsdelivr.net/gh/nordic96/sg_eatwhere/resources/1950/1.jpeg",
-        "https://cdn.jsdelivr.net/gh/nordic96/sg_eatwhere/resources/1950/2.jpeg"
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/1950/1.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/1950/2.jpeg"
       ],
       "location": {
         "address": "335 Smith St, #02-048, Singapore 050335",

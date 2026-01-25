@@ -1,0 +1,192 @@
+{
+  "data": [
+    {
+      "id": "komala",
+      "name": "Komala Vilas",
+      "category": "restaurant",
+      "recommendations": ["Masla Dosai", "Masala Chai"],
+      "imgSource": [
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/komala/komalavilla_1.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/komala/komalavilla_2.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/komala/komalavilla_3.jpeg"
+      ],
+      "location": {
+        "address": "76 Serangoon Rd, Singapore 217981",
+        "gmapUrl": "https://maps.app.goo.gl/k7tFGxx6g8q9ooL49",
+        "mrt": ["little_india"],
+        "region": "central",
+        "geoLocation": {
+          "latitude": 1.307901,
+          "longitude": 103.853522
+        }
+      },
+      "website": "https://www.komalavilas.com.sg/"
+    },
+    {
+      "id": "spicy_wife",
+      "name": "Spicy Wife Nasi Lemak",
+      "category": "hawker",
+      "recommendations": ["Aromatic Chicken"],
+      "imgSource": [
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/spicy/spicy_wife_1.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/spicy/spicy_wife_2.jpeg"
+      ],
+      "location": {
+        "address": "7 Maxwell Rd, Amoy St, Food Centre, 02-119, 069111",
+        "gmapUrl": "https://maps.app.goo.gl/hmquZSaXGugMDH4q8",
+        "mrt": ["tanjong_pagar"],
+        "region": "central",
+        "geoLocation": {
+          "latitude": 1.2792477058866272,
+          "longitude": 103.84652104460396
+        }
+      }
+    },
+    {
+      "id": "yatkayan",
+      "name": "Yat Ka Yan Dessert",
+      "category": "dessert",
+      "recommendations": ["Yam Chendol", "Purple Rice with Icecream"],
+      "imgSource": [
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/yatkayan/yatkayan_1.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/yatkayan/yatkayan_2.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/yatkayan/yatkayan_3.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/yatkayan/yatkayan_4.jpeg"
+      ],
+      "location": {
+        "address": "190 Middle Rd, #02-08 Fortune Centre, Singapore 188979",
+        "gmapUrl": "https://maps.app.goo.gl/kAc8EuW5MqgZDbWQA",
+        "mrt": ["bencoolen"],
+        "region": "central",
+        "geoLocation": {
+          "latitude": 1.3007023528612611,
+          "longitude": 103.85208220385952
+        }
+      }
+    },
+    {
+      "id": "nanhuachang",
+      "name": "Nan Hua Chang SeaFood",
+      "category": "restaurant",
+      "recommendations": ["Grouper Fish Head Steamboat", "Prawn Paste Wings"],
+      "imgSource": [
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/nanhua/nanhuachang_1.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/nanhua/nanhuachang_2.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/nanhua/nanhuachang_3.jpeg"
+      ],
+      "location": {
+        "address": "462 Crawford Ln, #01-69/71, Singapore 190462",
+        "gmapUrl": "https://maps.app.goo.gl/mBPhoS7j188iqBzv9",
+        "mrt": ["lavender", "bugis", "nicoll_highway"],
+        "region": "central",
+        "geoLocation": {
+          "latitude": 1.3050929262076814,
+          "longitude": 103.86270769767101
+        }
+      },
+      "website": "https://nanhwachong.com.sg/"
+    },
+    {
+      "id": "jixiang",
+      "name": "Ji Xiang Confectionery",
+      "category": "dessert",
+      "recommendations": ["Yam AngKuKueh", "Sweet Bean AngKuKueh"],
+      "imgSource": [
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/jixiang/jixiang_1.jpeg"
+      ],
+      "location": {
+        "address": "1 Everton Park, #01-33, Singapore 081001",
+        "gmapUrl": "https://maps.app.goo.gl/SJmoZAJ9NkfEEoau6",
+        "mrt": ["outram_park", "tanjong_pagar"],
+        "region": "central",
+        "geoLocation": {
+          "latitude": 1.277494311833965,
+          "longitude": 103.84025398917902
+        }
+      },
+      "website": "https://jixiangeverton.com.sg/"
+    },
+    {
+      "id": "oldtree",
+      "name": "99 Old Trees Durian",
+      "category": "dessert",
+      "recommendations": ["Stinky Bowl (with Extra Shot)", "MaoShanWang Durian Chendol"],
+      "imgSource": [
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/oldtree/3A01AF2E-B75C-498C-A8D9-D298970AF2D2_1_105_c.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/oldtree/oldtree_3.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/oldtree/oldtree_1.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/oldtree/066AF8A2-72E8-48C2-93E7-280C8CB25A4F_1_105_c.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/oldtree/42A3E561-7823-45BF-B002-A11E5E9AAC77_1_102_a.jpeg"
+      ],
+      "location": {
+        "address": "1 Teo Hong Rd, Singapore 088321",
+        "gmapUrl": "https://maps.app.goo.gl/gqcUMstgvKDpAsZ7A",
+        "mrt": ["outram_park", "tanjong_pagar"],
+        "region": "central",
+        "geoLocation": {
+          "latitude": 1.280484583904037,
+          "longitude": 103.84097249373312
+        }
+      },
+      "website": "https://www.99oldtrees.com/"
+    },
+    {
+      "id": "donamanis",
+      "name": "Dona Manis Cake Shop",
+      "recommendations": ["Banana Pie"],
+      "category": "dessert",
+      "imgSource": [
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/dona/dona1.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/dona/dona2.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/dona/dona3.jpeg"
+      ],
+      "location": {
+        "address": "865 Mountbatten Rd, B1 93, Singapore 437844",
+        "gmapUrl": "https://maps.app.goo.gl/7bSKyDyfB7VzA5Tz8",
+        "mrt": ["marine_parade"],
+        "region": "east",
+        "geoLocation": { "latitude": 1.30391, "longitude": 103.90145 }
+      },
+      "website": "https://www.donamanis.com/"
+    },
+    {
+      "id": "ahtai",
+      "name": "Ah Tai Hainanese Chicken Rice",
+      "recommendations": ["Hainanese Chicken Rice"],
+      "category": "hawker",
+      "imgSource": [
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/ahtai/ahtai.jpeg"
+      ],
+      "location": {
+        "address": "1 Kadayanallur St, #01-07 Maxwell Food Centre, Singapore 069184",
+        "gmapUrl": "https://maps.app.goo.gl/oFkWqWT2Ew2dC6v97",
+        "mrt": ["maxwell"],
+        "region": "central",
+        "geoLocation": { 
+          "latitude": 1.28078, 
+          "longitude": 103.84467 
+        }
+      }
+    },
+    {
+      "id": "1950",
+      "name": "The 1950s Coffee",
+      "recommendations": ["Kopi", "Kopi C Siew Dai"],
+      "category": "hawker",
+      "imgSource": [
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/1950/1.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/1950/2.jpeg"
+      ],
+      "location": {
+        "address": "335 Smith St, #02-048, Singapore 050335",
+        "gmapUrl": "https://maps.app.goo.gl/CMbL5GabwE2NkuSz6",
+        "mrt": ["maxwell", "chinatown"],
+        "region": "central",
+        "geoLocation": { 
+          "latitude": 1.2823386991951635, 
+          "longitude": 103.84338974566543 
+        }
+      }
+    }
+  ]
+}
