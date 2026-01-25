@@ -12,7 +12,8 @@
         "yatkayan_desc": "Are you staying near Dhoby Ghaut Station? or planning to visit Chijmes? there is a hidden chinese dessert shop not far from Bencoolen station, favoured by young Singaporeans. This dessert shop is also known by nearby design school and university students for selling variety of delicious chinese desserts at a cheap price.\n\nMy personal favourite, Chendol, a popular singaporean ice dessert with generous amount of GulaMelaka (charamelised syrup) drizzled, or if you are not much into 'too sweet' desserts, you can also try out a purple rice dessert made of glutinous purple rice served with variety of toppings. There are hot desserts available too!",
         "jixiang_desc": "Do you know what Kueh is? This confectionery was founded in 1988, located near Outram Park and Tanjong Pagar MRT station, selling freshly handmade delicious Ang Ku Kueh. The word 'Ang Ku Kueh' literally means red tortoise cake, because the shape resembles a tortoise shell. It has a delicious rice cake texture, coated with sesame oil, and has variety of fillings.\n\n I personally recommend their sweet bean fillings and yam fillings",
         "donamanis_desc": "Planning to visit Joo Chiat Road? not near from the centre of the popular joo chiat road, an old institution bakes delicious pies since 1990 at Katong Shopping Centre. Once you are near this shop, you cannot resist the smell of one of the best banana pies in Singapore.",
-        "ahtai_desc": "Chicken Rice is one of the most popular dish in Singapore. AhTai Chicken Rice, located at Maxwell Food Centre, which is only few minutes walk from the famous Buddha Tooth Relic Temple in ChinaTown. If you are travelling with more than 2 people, I recommend ordering half/whole chicken with separate rice bowls, or just individual chicken rice sets if you are not so hungry!"
+        "ahtai_desc": "Chicken Rice is one of the most popular dish in Singapore. AhTai Chicken Rice, located at Maxwell Food Centre, which is only few minutes walk from the famous Buddha Tooth Relic Temple in ChinaTown. If you are travelling with more than 2 people, I recommend ordering half/whole chicken with separate rice bowls, or just individual chicken rice sets if you are not so hungry!",
+        "1950_desc": "Hainanese Coffee or Tea are one of the must to try when you are exploring the taste of Singapore. Located at ChinaTown Complex, where many legendary hawker stalls are located, you could find this small kopi/teh stall. The stall offers variety of hainanese kopi(coffee) and teh(tea), but with a distinct rich flavour. My personal recommendation would be Kopi C Siew Dai, which is made with Hainanese black coffee with. Evaporated Milk (C) poured, and with less sugar (siew dai). You won't find it difficult locating this stall as there are always a long queue."
     },
     "MRT": {
         "tanjong_pagar": "Tanjong Pagar",
@@ -23,7 +24,8 @@
         "bugis": "Bugis",
         "nicoll_highway": "Nicoll Highway",
         "marine_parade": "Marine Parade",
-        "maxwell": "Maxwell"
+        "maxwell": "Maxwell",
+        "chinatown": "China Town"
     },
     "Header": {
         "link_mapview": "MapView",

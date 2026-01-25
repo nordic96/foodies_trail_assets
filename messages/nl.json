@@ -12,7 +12,8 @@
         "yatkayan_desc": "Verblijf je in de buurt van Dhoby Ghaut Station? Of ben je van plan Chijmes te bezoeken? Er is een verborgen Chinese dessertwinkel niet ver van Bencoolen station, geliefd bij jonge Singaporezen. Deze dessertwinkel staat ook bekend bij studenten van nabijgelegen ontwerpscholen en universiteiten voor het verkopen van verschillende heerlijke Chinese desserts tegen een goedkope prijs.\n\nMijn persoonlijke favoriet, Chendol, een populair Singaporees ijsdessert met een royale hoeveelheid GulaMelaka (gekarameliseerde siroop) gedruppeld, of als je niet zo van 'te zoete' desserts houdt, kun je ook een paarse rijstdessert proberen gemaakt van kleverige paarse rijst geserveerd met verschillende toppings. Er zijn ook warme desserts beschikbaar!",
         "jixiang_desc": "Weet je wat Kueh is? Deze banketbakkerij werd opgericht in 1988, gelegen bij Outram Park en Tanjong Pagar MRT station, en verkoopt vers handgemaakte heerlijke Ang Ku Kueh. Het woord 'Ang Ku Kueh' betekent letterlijk rode schildpadcake, omdat de vorm lijkt op een schildpaddenschild. Het heeft een heerlijke rijstcaketextuur, bedekt met sesamolie, en heeft verschillende vullingen.\n\nIk raad persoonlijk hun zoete bonenvullingen en yamvullingen aan",
         "donamanis_desc": "Bent u van plan Joo Chiat Road te bezoeken? Niet ver van het centrum van de populaire Joo Chiat Road vindt u een gevestigde bakkerij in het Katong Shopping Centre, die al sinds 1990 heerlijke taarten bakt. Zodra u in de buurt van deze winkel komt, kunt u de geur van een van de beste bananentaarten van Singapore niet weerstaan.",
-        "ahtai_desc": "Chicken Rice is een van de populairste gerechten in Singapore. AhTai Chicken Rice, gelegen in Maxwell Food Centre, ligt op slechts een paar minuten lopen van de beroemde Buddha Tooth Relic Temple in ChinaTown. Als je met meer dan 2 personen reist, raad ik aan om een halve of hele kip te bestellen met aparte kommen rijst, of gewoon individuele chicken rice sets als je niet zo'n honger hebt!"
+        "ahtai_desc": "Chicken Rice is een van de populairste gerechten in Singapore. AhTai Chicken Rice, gelegen in Maxwell Food Centre, ligt op slechts een paar minuten lopen van de beroemde Buddha Tooth Relic Temple in ChinaTown. Als je met meer dan 2 personen reist, raad ik aan om een halve of hele kip te bestellen met aparte kommen rijst, of gewoon individuele chicken rice sets als je niet zo'n honger hebt!",
+        "1950_desc": "Hainanese koffie of thee is een absolute aanrader als je de smaken van Singapore wilt ontdekken. In het Chinatown Complex, waar veel legendarische eetstalletjes te vinden zijn, vind je dit kleine koffie- en theestalletje. Het kraampje biedt een verscheidenheid aan Hainanese koffie en thee, elk met een eigen, rijke smaak. Mijn persoonlijke aanbeveling is de Kopi C Siew Dai, gemaakt met zwarte Hainanese koffie, gecondenseerde melk (C) en weinig suiker (siew dai). Je zult dit kraampje niet moeilijk vinden, want er staat altijd een lange rij."
     },
     "MRT": {
         "tanjong_pagar": "Tanjong Pagar",
@@ -23,7 +24,8 @@
         "bugis": "Bugis",
         "nicoll_highway": "Nicoll Highway",
         "marine_parade": "Marine Parade",
-        "maxwell": "Maxwell"
+        "maxwell": "Maxwell",
+        "chinatown": "China Town"
     },
     "Header": {
         "link_mapview": "Kaartweergave",
