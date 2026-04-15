@@ -187,6 +187,27 @@
           "longitude": 103.84338974566543 
         }
       }
+    },
+    {
+      "id": "springleaf",
+      "name": "SpringLeaf Prata Place",
+      "recommendations": ["Teh Tarik", "Plain Prata", "Coin Prata"],
+      "category": "restaurant",
+      "imgSource": [
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/springleaf/1.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/springleaf/2.jpeg"
+      ],
+      "location": {
+        "address": "1 Maritime Square, #01-28, Singapore 099253",
+        "gmapUrl": "https://maps.app.goo.gl/sqUKkEG8qAbLENmEA",
+        "mrt": ["harbourfront"],
+        "region": "central",
+        "geoLocation": { 
+          "latitude": 1.2644459743457326, 
+          "longitude": 103.8206866134469 
+        }
+      },
+      "website": "https://spplace.com/"
     }
   ]
 }

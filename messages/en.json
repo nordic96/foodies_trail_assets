@@ -13,7 +13,8 @@
         "jixiang_desc": "Do you know what Kueh is? This confectionery was founded in 1988, located near Outram Park and Tanjong Pagar MRT station, selling freshly handmade delicious Ang Ku Kueh. The word 'Ang Ku Kueh' literally means red tortoise cake, because the shape resembles a tortoise shell. It has a delicious rice cake texture, coated with sesame oil, and has variety of fillings.\n\n I personally recommend their sweet bean fillings and yam fillings",
         "donamanis_desc": "Planning to visit Joo Chiat Road? not near from the centre of the popular joo chiat road, an old institution bakes delicious pies since 1990 at Katong Shopping Centre. Once you are near this shop, you cannot resist the smell of one of the best banana pies in Singapore.",
         "ahtai_desc": "Chicken Rice is one of the most popular dish in Singapore. AhTai Chicken Rice, located at Maxwell Food Centre, which is only few minutes walk from the famous Buddha Tooth Relic Temple in ChinaTown. If you are travelling with more than 2 people, I recommend ordering half/whole chicken with separate rice bowls, or just individual chicken rice sets if you are not so hungry!",
-        "1950_desc": "Hainanese Coffee or Tea are one of the must to try when you are exploring the taste of Singapore. Located at ChinaTown Complex, where many legendary hawker stalls are located, you could find this small kopi/teh stall. The stall offers variety of hainanese kopi(coffee) and teh(tea), but with a distinct rich flavour. My personal recommendation would be Kopi C Siew Dai, which is made with Hainanese black coffee with. Evaporated Milk (C) poured, and with less sugar (siew dai). You won't find it difficult locating this stall as there are always a long queue."
+        "1950_desc": "Hainanese Coffee or Tea are one of the must to try when you are exploring the taste of Singapore. Located at ChinaTown Complex, where many legendary hawker stalls are located, you could find this small kopi/teh stall. The stall offers variety of hainanese kopi(coffee) and teh(tea), but with a distinct rich flavour. My personal recommendation would be Kopi C Siew Dai, which is made with Hainanese black coffee with. Evaporated Milk (C) poured, and with less sugar (siew dai). You won't find it difficult locating this stall as there are always a long queue.",
+        "springleaf_desc": "On your way to visit Sentosa Island? You would first reach to Harbourfront MRT station before switching your train to the Sentosa Island Monorail. If you are visiting on morning hours, a hidden breakfast place named 'Springleaf Prata' is running inside mall called Harbourfront Centre lies just next to VivoCity mall. Probably one of the most famous Indian Food restaurant chain in Singapore, its classic prata with Teh Tarik (Pulled Milk Tea) are one of the best breakfast experience you could have. The shop have countless combination of prata variants (cheese, onion, plain, coin, etc.) and combo meals."
     },
     "MRT": {
         "tanjong_pagar": "Tanjong Pagar",
@@ -25,7 +26,8 @@
         "nicoll_highway": "Nicoll Highway",
         "marine_parade": "Marine Parade",
         "maxwell": "Maxwell",
-        "chinatown": "China Town"
+        "chinatown": "China Town",
+        "harbourfront": "Harbourfront"
     },
     "Header": {
         "link_mapview": "MapView",
