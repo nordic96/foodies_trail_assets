@@ -208,6 +208,47 @@
         }
       },
       "website": "https://spplace.com/"
+    },
+    {
+      "id": "khengnamlee",
+      "name": "Kheng Nam Lee Curry Rice (琼南利咖喱饭)",
+      "recommendations": ["Economic Rice"],
+      "category": "hakwer",
+      "imgSource": [
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/khengnamlee/1.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/khengnamlee/2.jpeg"
+      ],
+      "location": {
+        "address": "2 Seah Im Rd, #01-53 Seah Im Food Centre, Singapore 099114",
+        "gmapUrl": "https://maps.app.goo.gl/LiWrCs4LbVHveAsJ9",
+        "mrt": ["harbourfront"],
+        "region": "central",
+        "geoLocation": { 
+          "latitude": 1.2669440740465652, 
+          "longitude": 103.81956461573232 
+        }
+      }
+    },
+    {
+      "id": "threemeal",
+      "name": "3 Meals a Day",
+      "recommendations": ["Salted Egg Chicken Rice", "Crispy Noodle with Egg"],
+      "category": "restaurant",
+      "imgSource": [
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/threemeal/1.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/threemeal/2.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/threemeal/3.jpeg"
+      ],
+      "location": {
+        "address": "1 Rochor Canal Rd, #02-01 Sim Lim Square, Singapore 188504",
+        "gmapUrl": "https://maps.app.goo.gl/xF5n5SiL2Ne4gwt26",
+        "mrt": ["bugis", "bencoolen"],
+        "region": "central",
+        "geoLocation": { 
+          "latitude": 1.3036053307224096, 
+          "longitude": 103.85402704627906 
+        }
+      }
     }
   ]
 }
