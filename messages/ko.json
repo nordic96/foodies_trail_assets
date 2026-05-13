@@ -51,7 +51,8 @@
         "marquee_playing": "무한롤링이 재생중입니다",
         "foodlist_by_region": "지역별 음식점 목록",
         "map_by": "지도 저작권: ",
-        "map_disclaimer": "**지도의 척도와 음식점들의 위치는 다소 상이할수 있습니다, 참고용으로 보시기 바랍니다"
+        "map_disclaimer": "**지도의 척도와 음식점들의 위치는 다소 상이할수 있습니다, 참고용으로 보시기 바랍니다",
+        "other_info_header": "기타 유용한 정보"
     },
     "GMapBanner": {
         "explore_complete_collection": "전체 컬렉션 탐색하기",
@@ -138,5 +139,9 @@
         "languages_label": "언어 지원",
         "project_value": "1",
         "project_label": "프로젝트"
+    },
+    "Spicy": {
+        "label": "매움",
+        "tooltip_desc": "매운 메뉴 포함"
     }
 }

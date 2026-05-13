@@ -70,7 +70,8 @@
         "marquee_playing": "Marquee wordt afgespeeld",
         "foodlist_by_region": "Voedsellijst per Regio",
         "map_by": "Kaart Credits: ",
-        "map_disclaimer": "**De schaal van de kaart is niet precies, het is voor een ruwe schatting van de locaties voor elk restaurant"
+        "map_disclaimer": "**De schaal van de kaart is niet precies, het is voor een ruwe schatting van de locaties voor elk restaurant",
+        "other_info_header": "Andere nuttige informatie"
     },
     "GMapBanner": {
         "explore_complete_collection": "Ontdek de Volledige Collectie",
@@ -138,5 +139,9 @@
         "languages_label": "Talen",
         "project_value": "1",
         "project_label": "Droomproject"
+    },
+    "Spicy": {
+        "label": "Pittig",
+        "tooltip_desc": "Kan een pittig menu bevatten"
     }
 }

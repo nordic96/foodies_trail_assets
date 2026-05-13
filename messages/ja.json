@@ -70,7 +70,8 @@
         "marquee_playing": "マーキーが再生中です",
         "foodlist_by_region": "地域別フードリスト",
         "map_by": "マップクレジット：",
-        "map_disclaimer": "**マップの縮尺は正確ではなく、各レストランの場所の大まかな推定用です"
+        "map_disclaimer": "**マップの縮尺は正確ではなく、各レストランの場所の大まかな推定用です",
+        "other_info_header": "その他の役立つ情報"
     },
     "GMapBanner": {
         "explore_complete_collection": "完全なコレクションを探索",
@@ -138,5 +139,9 @@
         "languages_label": "言語",
         "project_value": "1",
         "project_label": "夢のプロジェクト"
+    },
+    "Spicy": {
+        "label": "辛い",
+        "tooltip_desc": "スパイシーなメニューが含まれる場合があります"
     }
 }
