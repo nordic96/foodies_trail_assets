@@ -4,6 +4,7 @@
       "id": "komala",
       "name": "Komala Vilas",
       "category": "restaurant",
+      "spicy": true,
       "recommendations": ["Masla Dosai", "Masala Chai"],
       "imgSource": [
         "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/komala/komalavilla_1.jpeg",
@@ -14,6 +15,7 @@
         "address": "76 Serangoon Rd, Singapore 217981",
         "gmapUrl": "https://maps.app.goo.gl/k7tFGxx6g8q9ooL49",
         "mrt": ["little_india"],
+        "mrt_codes": ["NE7/DT12"],
         "region": "central",
         "geoLocation": {
           "latitude": 1.307901,
@@ -26,6 +28,7 @@
       "id": "spicy_wife",
       "name": "Spicy Wife Nasi Lemak",
       "category": "hawker",
+      "spicy": true,
       "recommendations": ["Aromatic Chicken"],
       "imgSource": [
         "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/spicy/spicy_wife_1.jpeg",
@@ -35,6 +38,7 @@
         "address": "7 Maxwell Rd, Amoy St, Food Centre, 02-119, 069111",
         "gmapUrl": "https://maps.app.goo.gl/hmquZSaXGugMDH4q8",
         "mrt": ["tanjong_pagar"],
+        "mrt_codes": ["EW15"],
         "region": "central",
         "geoLocation": {
           "latitude": 1.2792477058866272,
@@ -57,6 +61,7 @@
         "address": "190 Middle Rd, #02-08 Fortune Centre, Singapore 188979",
         "gmapUrl": "https://maps.app.goo.gl/kAc8EuW5MqgZDbWQA",
         "mrt": ["bencoolen"],
+        "mrt_codes": ["DT21"],
         "region": "central",
         "geoLocation": {
           "latitude": 1.3007023528612611,
@@ -78,6 +83,7 @@
         "address": "462 Crawford Ln, #01-69/71, Singapore 190462",
         "gmapUrl": "https://maps.app.goo.gl/mBPhoS7j188iqBzv9",
         "mrt": ["lavender", "bugis", "nicoll_highway"],
+        "mrt_codes": ["EW11"],
         "region": "central",
         "geoLocation": {
           "latitude": 1.3050929262076814,
@@ -98,6 +104,7 @@
         "address": "1 Everton Park, #01-33, Singapore 081001",
         "gmapUrl": "https://maps.app.goo.gl/SJmoZAJ9NkfEEoau6",
         "mrt": ["outram_park", "tanjong_pagar"],
+        "mrt_codes": ["EW15"],
         "region": "central",
         "geoLocation": {
           "latitude": 1.277494311833965,
@@ -122,6 +129,7 @@
         "address": "1 Teo Hong Rd, Singapore 088321",
         "gmapUrl": "https://maps.app.goo.gl/gqcUMstgvKDpAsZ7A",
         "mrt": ["outram_park", "tanjong_pagar"],
+        "mrt_codes": ["NE3/EW16/TE17"],
         "region": "central",
         "geoLocation": {
           "latitude": 1.280484583904037,
@@ -144,6 +152,7 @@
         "address": "865 Mountbatten Rd, B1 93, Singapore 437844",
         "gmapUrl": "https://maps.app.goo.gl/7bSKyDyfB7VzA5Tz8",
         "mrt": ["marine_parade"],
+        "mrt_codes": ["TE26"],
         "region": "east",
         "geoLocation": { "latitude": 1.30391, "longitude": 103.90145 }
       },
@@ -161,6 +170,7 @@
         "address": "1 Kadayanallur St, #01-07 Maxwell Food Centre, Singapore 069184",
         "gmapUrl": "https://maps.app.goo.gl/oFkWqWT2Ew2dC6v97",
         "mrt": ["maxwell"],
+        "mrt_codes": ["TE18"],
         "region": "central",
         "geoLocation": { 
           "latitude": 1.28078, 
@@ -181,10 +191,76 @@
         "address": "335 Smith St, #02-048, Singapore 050335",
         "gmapUrl": "https://maps.app.goo.gl/CMbL5GabwE2NkuSz6",
         "mrt": ["maxwell", "chinatown"],
+        "mrt_codes": ["TE18", "NE4/DT19"],
         "region": "central",
         "geoLocation": { 
           "latitude": 1.2823386991951635, 
           "longitude": 103.84338974566543 
+        }
+      }
+    },
+    {
+      "id": "springleaf",
+      "name": "SpringLeaf Prata Place",
+      "recommendations": ["Teh Tarik", "Plain Prata", "Coin Prata"],
+      "category": "restaurant",
+      "imgSource": [
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/springleaf/1.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/springleaf/2.jpeg"
+      ],
+      "location": {
+        "address": "1 Maritime Square, #01-28, Singapore 099253",
+        "gmapUrl": "https://maps.app.goo.gl/sqUKkEG8qAbLENmEA",
+        "mrt": ["harbourfront"],
+        "mrt_codes": ["NE1/CC29"],
+        "region": "central",
+        "geoLocation": { 
+          "latitude": 1.2644459743457326, 
+          "longitude": 103.8206866134469 
+        }
+      },
+      "website": "https://spplace.com/"
+    },
+    {
+      "id": "khengnamlee",
+      "name": "Kheng Nam Lee Curry Rice (琼南利咖喱饭)",
+      "recommendations": ["Economic Rice"],
+      "category": "hawker",
+      "imgSource": [
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/khengnamlee/1.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/khengnamlee/2.jpeg"
+      ],
+      "location": {
+        "address": "2 Seah Im Rd, #01-53 Seah Im Food Centre, Singapore 099114",
+        "gmapUrl": "https://maps.app.goo.gl/LiWrCs4LbVHveAsJ9",
+        "mrt": ["harbourfront"],
+        "mrt_codes": ["NE1/CC29"],
+        "region": "central",
+        "geoLocation": { 
+          "latitude": 1.2669440740465652, 
+          "longitude": 103.81956461573232 
+        }
+      }
+    },
+    {
+      "id": "threemeal",
+      "name": "3 Meals a Day",
+      "recommendations": ["Salted Egg Chicken Rice", "Crispy Noodle with Egg"],
+      "category": "restaurant",
+      "imgSource": [
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/threemeal/1.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/threemeal/2.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/threemeal/3.jpeg"
+      ],
+      "location": {
+        "address": "1 Rochor Canal Rd, #02-01 Sim Lim Square, Singapore 188504",
+        "gmapUrl": "https://maps.app.goo.gl/xF5n5SiL2Ne4gwt26",
+        "mrt": ["bugis", "bencoolen"],
+        "mrt_codes": ["EW12/DT14", "DT21"],
+        "region": "central",
+        "geoLocation": { 
+          "latitude": 1.3036053307224096, 
+          "longitude": 103.85402704627906 
         }
       }
     }
