@@ -27,7 +27,17 @@
         "marine_parade": "Marine Parade",
         "maxwell": "Maxwell",
         "chinatown": "China Town",
-        "harbourfront": "Harbourfront"
+        "harbourfront": "Harbourfront",
+        "EW15": "Tanjong Pagar",
+        "NE3": "Outram Park",
+        "DT21": "Bencoolen",
+        "NE7": "Little India",
+        "EW11": "Lavender",
+        "EW12": "Bugis",
+        "CC5": "Nicoll Highway",
+        "TE26": "Marine Parade",
+        "TE18": "Maxwell",
+        "NE1": "HarbourFront"
     },
     "Header": {
         "link_mapview": "MapView",

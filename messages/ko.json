@@ -27,7 +27,18 @@
         "marine_parade": "Marine Parade (마린 퍼레이드)",
         "maxwell": "Maxwell (맥스웰)",
         "chinatown": "ChinaTown (차이나타운)",
-        "harbourfront": "Harbourfront (하버프론트)"
+        "harbourfront": "Harbourfront (하버프론트)",
+        "EW15": "탄종파가",
+        "NE3": "아우트람 파크",
+        "NE7": "리틀 인디아",
+        "DT21": "벤쿨랜",
+        "NE4": "차이나 타운",
+        "EW11": "라벤더",
+        "EW12": "부기스",
+        "CC5": "니콜 하이웨이",
+        "TE26": "마린 퍼레이드",
+        "TE18": "맥스웰",
+        "NE1": "하버프론트"
     },
     "Header": {
         "link_mapview": "맛집지도",

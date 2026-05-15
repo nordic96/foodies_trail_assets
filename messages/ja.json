@@ -27,7 +27,18 @@
         "marine_parade": "Marine Parade (マリンパレード)",
         "maxwell": "Maxwell (マクスウェル)",
         "chinatown": "ChinaTown (チャイナタウン)",
-        "harbourfront": "Harbourfront (ハーバーフロント)"
+        "harbourfront": "Harbourfront (ハーバーフロント)",
+        "EW15": "タンジョンパガー",
+        "NE1": "ハーバーフロント",
+        "NE3": "アウトラムパーク",
+        "NE4": "チャイナタウン",
+        "DT21": "ベンクーレン",
+        "NE7": "リトルインディア",
+        "EW11": "ラベンダー",
+        "EW12": "ブギス",
+        "CC5": "ニコルハイウェイ",
+        "TE26": "マリンパレード",
+        "TE18": "マクスウェル"
     },
     "Header": {
         "link_mapview": "マップビュー",
