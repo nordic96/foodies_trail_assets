@@ -164,6 +164,7 @@
         "seafood_tooltip": "Contains seafood dishes"
     },
     "Shortcut": {
+        "title": "Camera Shortcuts",
         "t": "Toggle Sidebar",
         "w": "Forward",
         "a": "Left",
