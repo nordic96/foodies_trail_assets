@@ -152,5 +152,18 @@
         "durian_tooltip": "Bevat doerian gerechten",
         "seafood": "Zeevruchten",
         "seafood_tooltip": "Bevat gerechten/ingrediënten met zeevruchten"
+    },
+    "Shortcut": {
+        "t": "Zijbalk",
+        "w": "Vooruit",
+        "a": "Links",
+        "s": "Achteruit",
+        "d": "Rechts",
+        "q": "Draai links",
+        "e": "Draai rechts",
+        "z": "Draai omhoog",
+        "c": "Draai omlaag",
+        "+": "Inzoomen",
+        "-": "Uitzoomen"
     }
 }

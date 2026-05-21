@@ -162,5 +162,18 @@
         "durian_tooltip": "Contains durian dishes",
         "seafood": "Seafood",
         "seafood_tooltip": "Contains seafood dishes"
+    },
+    "Shortcut": {
+        "t": "Toggle Sidebar",
+        "w": "Forward",
+        "a": "Left",
+        "s": "Backward",
+        "d": "Right",
+        "q": "Rotate Left",
+        "e": "Rotate Right",
+        "z": "Rotate Up",
+        "c": "Rotate Down",
+        "+": "Zoom In",
+        "-": "Zoom Out"
     }
 }

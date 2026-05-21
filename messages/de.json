@@ -149,5 +149,18 @@
       "durian_tooltip": "Enthält Durian-Gerichte",
       "seafood": "Meeresfrüchte",
       "seafood_tooltip": "Enthält Meeresfrüchte-Gerichte/Zutaten"
+  },
+  "Shortcut": {
+      "t": "Seitenleiste",
+      "w": "Vorwärts",
+      "a": "Links",
+      "s": "Rückwärts",
+      "d": "Rechts",
+      "q": "Links drehen",
+      "e": "Rechts drehen",
+      "z": "Hoch drehen",
+      "c": "Runter drehen",
+      "+": "Heranzoomen",
+      "-": "Herauszoomen"
   }
 }
