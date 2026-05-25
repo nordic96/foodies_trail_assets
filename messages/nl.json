@@ -124,7 +124,8 @@
         "website": "Website",
         "must-try": "Moet Proberen Gerecht",
         "nearest-mrt": "Dichtstbijzijnde MRT Station",
-        "ig": "Instagram"
+        "ig": "Instagram",
+        "toggle_3d_models": "3D-modellen"
     },
     "Footer": {
         "changelanguage": "Taal Wijzigen",

@@ -121,7 +121,8 @@
     "website": "Webseite",
     "must-try": "Empfohlenes Gericht",
     "nearest-mrt": "Nächste MRT-Station",
-    "ig": "Instagram"
+    "ig": "Instagram",
+    "toggle_3d_models": "3D-Modelle"
   },
   "Footer": {
     "changelanguage": "Sprache ändern",

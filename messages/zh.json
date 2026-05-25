@@ -129,7 +129,8 @@
     "website": "网站",
     "must-try": "推荐菜品",
     "nearest-mrt": "最近地铁站",
-    "ig": "IG"
+    "ig": "IG",
+    "toggle_3d_models": "3D 模型"
   },
   "Footer": {
     "changelanguage": "切换语言",

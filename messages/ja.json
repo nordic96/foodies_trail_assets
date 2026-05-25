@@ -135,7 +135,8 @@
         "website": "ウェブサイト",
         "must-try": "必食料理",
         "nearest-mrt": "最寄りのMRT駅",
-        "ig": "インスタグラム"
+        "ig": "インスタグラム",
+        "toggle_3d_models": "3Dモデル"
     },
     "Footer": {
         "changelanguage": "言語を変更",

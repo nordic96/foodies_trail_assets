@@ -134,7 +134,8 @@
         "website": "Website",
         "must-try": "Must Try Dish",
         "nearest-mrt": "Nearest MRT Station",
-        "ig": "Instagram"
+        "ig": "Instagram",
+        "toggle_3d_models": "3D Models"
     },
     "Footer": {
         "changelanguage": "Change Language",
