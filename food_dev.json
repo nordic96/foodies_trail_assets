@@ -268,6 +268,71 @@
         }
       },
       "website": "https://www.3mealsaday.sg/"
+    },
+    {
+      "id": "foongkee",
+      "name": "Foong Kee Traditional Charcoal Roaster",
+      "recommendations": ["Roasted Pork Rice", "Char Siew Roasted Pork Rice"],
+      "category": "hawker",
+      "imgSource": [
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/foongkee/foongkee.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/foongkee/foongkee_2.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/foongkee/foongkee_3.jpeg"
+      ],
+      "location": {
+        "address": "31 Commonwealth Cres, #02-90 Market and Food Centre, Singapore 149644",
+        "gmapUrl": "https://maps.app.goo.gl/NeN7te41gKVLZJVA7",
+        "mrt": ["commonwealth"],
+        "mrt_codes": ["EW20"],
+        "region": "west",
+        "geoLocation": { 
+          "latitude": 1.3079661744082596, 
+          "longitude": 103.80261105434015 
+        }
+      }
+    },
+    {
+      "id": "peramakan",
+      "name": "Restaurant Peramakan",
+      "recommendations": ["Ayam Buah Keluak", "Beef Rendang"],
+      "category": "restaurant",
+      "imgSource": [
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/peramakan/peramakan_1.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/peramakan/peramakan_2.jpeg"
+      ],
+      "location": {
+        "address": "119 Owen Rd, Singapore 218924",
+        "gmapUrl": "https://maps.app.goo.gl/NF5rpojuqBE4FPcZ7",
+        "mrt": ["farrerpark"],
+        "mrt_codes": ["NE8"],
+        "region": "east",
+        "geoLocation": { 
+          "latitude": 1.3139684798800726, 
+          "longitude": 103.85296968605188 
+        }
+      },
+      "website": "https://peramakan.com/"
+    },
+    {
+      "id": "sapari",
+      "name": "Selamat Datang Warong Pak Sapari",
+      "recommendations": ["Mee Soto Ayam", "Mee Rebus"],
+      "category": "hawker",
+      "imgSource": [
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/sapari/sapari_1.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/sapari/sapari_2.jpeg"
+      ],
+      "location": {
+        "address": "2 Adam Rd, #01-09, Singapore 289877",
+        "gmapUrl": "https://maps.app.goo.gl/F7Hk648PmkKFnUsL8",
+        "mrt": ["botanicgardens"],
+        "mrt_codes": ["CC19/DT9"],
+        "region": "west",
+        "geoLocation": { 
+          "latitude": 1.3273171246309374, 
+          "longitude": 103.82202504168212 
+        }
+      }
     }
   ]
 }

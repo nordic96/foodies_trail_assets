@@ -27,7 +27,10 @@
         "marine_parade": "Marine Parade",
         "maxwell": "Maxwell",
         "chinatown": "China Town",
-        "harbourfront": "Harbourfront"
+        "harbourfront": "Harbourfront",
+        "EW20": "CommonWealth",
+        "CC19": "Botanic Gardens",
+        "NE8": "Farrer Park"
     },
     "Header": {
         "link_mapview": "Kaartweergave",

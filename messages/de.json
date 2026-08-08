@@ -24,7 +24,10 @@
     "CC5": "Nicoll Highway",
     "TE26": "Marine Parade",
     "TE18": "Maxwell",
-    "NE1": "HarbourFront"
+    "NE1": "HarbourFront",
+    "EW20": "CommonWealth",
+    "CC19": "Botanic Gardens",
+    "NE8": "Farrer Park"
   },
   "Header": {
     "link_mapview": "Kartenansicht",
