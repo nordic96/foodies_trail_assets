@@ -311,6 +311,27 @@
           "longitude": 103.82202504168212 
         }
       }
+    },
+    {
+      "id": "mohgan",
+      "name": "Mr & Mrs Mohhan Super Crispy Roti Prata",
+      "recommendations": ["Plain Prata", "Egg Prata", "Coin Prata"],
+      "category": "hawker",
+      "imgSource": [
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/mohgan/1.jpeg",
+        "https://cdn.jsdelivr.net/gh/nordic96/foodies_trail_assets/resources/mohgan/2.jpeg"
+      ],
+      "location": {
+        "address": "300 Joo Chiat Rd, Tin Yeang Restaurant, Singapore 427551",
+        "gmapUrl": "https://maps.app.goo.gl/awT8t9gK9mfNUbUX9",
+        "mrt": ["Marine Parade"],
+        "mrt_codes": ["TE26"],
+        "region": "east",
+        "geoLocation": { 
+          "latitude": 1.3097000778742744,
+          "longitude": 103.90299052787655 
+        }
+      }
     }
   ]
 }
